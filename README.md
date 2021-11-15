@@ -13,8 +13,10 @@ Buildling multimodal representations "AI systems that learn about concepts in se
 - **Learning Transferable Visual Models From Natural Language Supervision**, (2020) [[paper]](https://arxiv.org/pdf/2103.00020.pdf), by *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever* 
 
 ## Useful Blogs and Videos
-- **OpenAI**  
-  - [[Blog--CLIP: Connecting Text and Images]](https://openai.com/blog/clip/), by *Alec RadfordIlya SutskeverJong Wook KimGretchen KruegerSandhini Agarwal*
+- **OpenAI Multimodal Research**  
+  - [[Blog--DALL·E: Creating Images from Text]](https://openai.com/blog/dall-e/), by *(primary authors) Aditya RameshMikhail PavlovGabriel GohScott Gray, (supporting authors) Mark Chen, Rewon Child, Vedant Misra, Pamela Mishkin, Gretchen Krueger, Sandhini Agarwal, and Ilya Sutskever*
+(SUPPORTING AUTHORS)
+  - [[Blog--CLIP: Connecting Text and Images]](https://openai.com/blog/clip/), by *Alec Radford, Ilya Sutskever, Jong Wook Kim, Gretchen Krueger, and Sandhini Agarwal*
   - [[Blog --Simple Implementation of OpenAI CLIP model: A Tutorial]](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2), by *Moein Shariatnia*
 
 - **Microsoft OSCAR** 
