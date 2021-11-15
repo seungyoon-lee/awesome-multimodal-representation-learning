@@ -10,5 +10,7 @@
 - **Learning Transferable Visual Models From Natural Language Supervision**, (2020) [[paper]](https://arxiv.org/pdf/2103.00020.pdf) by *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever* 
 
 ## Useful Blogs and Videos
-- **OpenAI CLIP** [[Blog--Connecting Text and Images]](https://openai.com/blog/clip/)
-- **Microsoft OSCAR** [[Youtube--AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8)
+- **OpenAI CLIP** 
+  - [[Blog--Connecting Text and Images]](https://openai.com/blog/clip/)
+- **Microsoft OSCAR** 
+  - [[Youtube--AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8)
