@@ -1,7 +1,7 @@
 # awesome-multimodal-representation-learning
 
-## Multimodal Representation Learning: Overview of Universal Pretraining Methods
-Buildling multimodal representations "AI systems that learn about concepts in several modalities, primarily the textual and visual domains, in order to better understand the world. In our latest research announcements, we present two neural networks that bring us closer to this goal."
+## Multimodal Representation Learning: Recent Works on Universal Pretraining Methods
+Curated list of papers and resources that leverage different modalities --e.g., vision, text, and audio--to learn better representations and concepts.  
  
 ## Transformer-based Pretraining
 - **ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross-and Intra-modal Knowledge Integration**, (2021) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475251), by *Yuhao Cui, Zhou Yu, Chunqi Wang, Zhongzhou Zhao, Ji Zhang, Meng Wang, and Jun Yu*
