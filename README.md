@@ -1,6 +1,6 @@
 # awesome-multimodal-representation-learning
 
-## Multimodal Representation Learning: Overview 
+## Multimodal Representation Learning: Overview of Universal Pretraining Methods
 - Buildling multimodal representations "AI systems that learn about concepts in several modalities, primarily the textual and visual domains, in order to better understand the world. In our latest research announcements, we present two neural networks that bring us closer to this goal."
 - 
 ## Transformer-based
