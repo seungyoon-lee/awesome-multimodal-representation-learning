@@ -21,7 +21,7 @@ Buildling multimodal representations "AI systems that learn about concepts in se
   - [[Blog--Multimodal Neurons in Artificial Neural Networks]](https://openai.com/blog/multimodal-neurons/), by *Gabriel Goh, Chelsea Voss, Daniela Amodei, Shan Carter, Michael Petrov, Justin Jay Wang, Nick Cammarata, and Chris Olah*, March 2021
 
 - **Microsoft Multimodal AI** [[website]](https://multimodalai.azurewebsites.net/)
-  - [[Recent Advances in Vision-and-Language Research CVPR 2020 Tutorial]](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), June 2020
-  - [[Blog--UNITER: Combining Image and Text]](https://towardsdatascience.com/uniter-d979e2d838f0), by "Rohit Pillai*, May 2020
+  - [[CVPR 2020 Tutorial--Recent Advances in Vision-and-Language Research]](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), June 2020
+  - [Blog--UNITER: Combining Image and Text]](https://towardsdatascience.com/uniter-d979e2d838f0), by "Rohit Pillai*, May 2020
   - [[Blog--VIOLIN: Do you really understand videos?]](https://medium.com/swlh/violin-do-you-really-understand-videos-fe07f7affd9e), by "Rohit Pillai*, May 2020
   - [[Youtube--AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8), by *Lijuan Wang and Xiaowei Hu*, Mar 2021
