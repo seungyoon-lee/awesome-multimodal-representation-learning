@@ -3,7 +3,7 @@
 ## Multimodal Representation Learning: Overview of Universal Pretraining Methods
 Buildling multimodal representations "AI systems that learn about concepts in several modalities, primarily the textual and visual domains, in order to better understand the world. In our latest research announcements, we present two neural networks that bring us closer to this goal."
  
-## Transformer-based Self-Supervised Learning
+## Transformer-based Pretraining
 - **ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross-and Intra-modal Knowledge Integration**, (2021) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475251), by *Yuhao Cui, Zhou Yu, Chunqi Wang, Zhongzhou Zhao, Ji Zhang, Meng Wang, and Jun Yu*
 - **Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling**, (2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf), by *Jie Lei, Linjie Li, Luowei Zhou, Zhe Gan, Tamara L. Berg, Mohit Bansal, and Jingjing Liu*
 - **Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer**, (2021) [[paper]](https://arxiv.org/pdf/2102.10772.pdf), by *Ronghang Hu and Amanpreet Singh*
