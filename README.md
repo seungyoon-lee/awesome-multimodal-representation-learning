@@ -26,6 +26,6 @@ Buildling multimodal representations "AI systems that learn about concepts in se
     - [[Youtube--CVPR 2020 Tutorial: Talk #3]](https://www.youtube.com/watch?v=Zn5uFGsq4j4) Visual Captioning by Luowei Zhou
     - [[Youtube--CVPR 2020 Tutorial: Talk #4]](https://www.youtube.com/watch?v=8pNtrsFe4tk) Text-to-Image Generation by Yu Cheng
     - [[Youtube--CVPR 2020 Tutorial: Talk #5]](https://www.youtube.com/watch?v=C4UQWJcp7w4) Self-supervised Learning by Licheng Yu, Yen-Chun Chen and Linjie Li
-  - [[Blog--UNITER: Combining Image and Text]](https://towardsdatascience.com/uniter-d979e2d838f0), by "Rohit Pillai*, May 2020
-  - [[Blog--VIOLIN: Do you really understand videos?]](https://medium.com/swlh/violin-do-you-really-understand-videos-fe07f7affd9e), by "Rohit Pillai*, May 2020
+  - [[Blog--UNITER: Combining Image and Text]](https://towardsdatascience.com/uniter-d979e2d838f0), by *"Rohit Pillai*, May 2020
+  - [[Blog--VIOLIN: Do you really understand videos?]](https://medium.com/swlh/violin-do-you-really-understand-videos-fe07f7affd9e), by *"Rohit Pillai*, May 2020
   - [[Youtube--AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8), by *Lijuan Wang and Xiaowei Hu*, Mar 2021
