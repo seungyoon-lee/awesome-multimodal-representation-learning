@@ -10,4 +10,4 @@
 - **Learning Transferable Visual Models From Natural Language Supervision**, (2020) [[paper]](https://arxiv.org/pdf/2103.00020.pdf) by Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever 
 
 ## Useful Blogs
-- **OpenAI [[CLIP]](https://openai.com/blog/clip/)
+- **OpenAI** [[CLIP]](https://openai.com/blog/clip/)
