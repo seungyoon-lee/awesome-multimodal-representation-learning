@@ -1,9 +1,7 @@
 # awesome-multimodal-representation-learning
 
-Buildling multimodal representations "AI systems that learn about concepts in several modalities, primarily the textual and visual domains, in order to better understand the world. In our latest research announcements, we present two neural networks that bring us closer to this goal."
-
-## Multimodal Representation Learning 
-- [TEMP PLACEHOLDER]
+## Multimodal Representation Learning: Overview 
+- Buildling multimodal representations "AI systems that learn about concepts in several modalities, primarily the textual and visual domains, in order to better understand the world. In our latest research announcements, we present two neural networks that bring us closer to this goal."
 - 
 ## Transformer-based
 - **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**, (2020) [[paper]](https://arxiv.org/pdf/2004.06165.pdf), by *Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, and Jianfeng Gao*
