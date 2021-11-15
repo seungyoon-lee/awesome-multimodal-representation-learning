@@ -19,4 +19,4 @@ Buildling multimodal representations "AI systems that learn about concepts in se
   - [[Blog --Simple Implementation of OpenAI CLIP model: A Tutorial]](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2) by *Moein Shariatnia*
 
 - **Microsoft OSCAR** 
-  - [[Youtube--AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8), by *Lijuan Wang and Xiaowei Hu* 2020
+  - [[Youtube--AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8), by *Lijuan Wang and Xiaowei Hu* 
