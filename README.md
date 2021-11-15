@@ -5,6 +5,7 @@ Buildling multimodal representations "AI systems that learn about concepts in se
  
 ## Transformer-based Self-Supervised Learning
 - **ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross-and Intra-modal Knowledge Integration**, (2021) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475251), by *Yuhao Cui, Zhou Yu, Chunqi Wang, Zhongzhou Zhao, Ji Zhang, Meng Wang, and Jun Yu*
+- **Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling**, (2021) [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf), by *Jie Lei, Linjie Li, Luowei Zhou, Zhe Gan, Tamara L. Berg, Mohit Bansal, and Jingjing Liu*
 - **Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer**, (2021) [[paper]](https://arxiv.org/pdf/2102.10772.pdf), by *Ronghang Hu and Amanpreet Singh*
 - **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**, (2020) [[paper]](https://arxiv.org/pdf/2004.06165.pdf), by *Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, and Jianfeng Gao*
 - **Uniter: Universal Image-text Representation Learning**, (2020) [[paper]](https://arxiv.org/pdf/1909.11740.pdf), by *Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, and Jingjing Liu.*
