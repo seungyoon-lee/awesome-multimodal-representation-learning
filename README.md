@@ -22,7 +22,7 @@ Buildling multimodal representations "AI systems that learn about concepts in se
 
 - **Microsoft Multimodal AI** [[website]](https://multimodalai.azurewebsites.net/)
   - [[CVPR 2020 Tutorial--Recent Advances in Vision-and-Language Research]](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), June 2020
-    - [[CVPR 2020 Tutorial: Talk #1 Opening Remarks by JJ Liu]](https://www.youtube.com/watch?v=BJgzjNN3h1U)
+    - [[Youtube--CVPR 2020 Tutorial: Talk #1]](https://www.youtube.com/watch?v=BJgzjNN3h1U) Opening Remarks by JJ Liu]
   - [[Blog--UNITER: Combining Image and Text]](https://towardsdatascience.com/uniter-d979e2d838f0), by "Rohit Pillai*, May 2020
   - [[Blog--VIOLIN: Do you really understand videos?]](https://medium.com/swlh/violin-do-you-really-understand-videos-fe07f7affd9e), by "Rohit Pillai*, May 2020
   - [[Youtube--AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8), by *Lijuan Wang and Xiaowei Hu*, Mar 2021
