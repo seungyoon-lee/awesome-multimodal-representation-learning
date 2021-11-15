@@ -11,3 +11,4 @@
 
 ## Useful Blogs and Videos
 - **OpenAI** [[CLIP: Connecting Text and Images]](https://openai.com/blog/clip/)
+- **Microsoft** [[OSCAR: AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8)
