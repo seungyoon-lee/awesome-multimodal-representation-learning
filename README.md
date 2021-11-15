@@ -7,7 +7,7 @@ Buildling multimodal representations "AI systems that learn about concepts in se
 - 
 ## Transformer-based
 - **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**, (2020) [[paper]](https://arxiv.org/pdf/2004.06165.pdf), by *Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, and Jianfeng Gao*
-- **ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross-and Intra-modal Knowledge Integration**, 2021 [[https://dl.acm.org/doi/pdf/10.1145/3474085.3475251]], by *Yuhao Cui, Zhou Yu, Chunqi Wang, Zhongzhou Zhao, Ji Zhang, Meng Wang, and Jun Yu*
+- **ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross-and Intra-modal Knowledge Integration**, 2021 [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475251), by *Yuhao Cui, Zhou Yu, Chunqi Wang, Zhongzhou Zhao, Ji Zhang, Meng Wang, and Jun Yu*
 
 
 ## Contrastive Learning
