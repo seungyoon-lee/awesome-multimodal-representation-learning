@@ -1,8 +1,8 @@
 # awesome-multimodal-representation-learning
 
 ## Multimodal Representation Learning: Overview of Universal Pretraining Methods
- Buildling multimodal representations "AI systems that learn about concepts in several modalities, primarily the textual and visual domains, in order to better understand the world. In our latest research announcements, we present two neural networks that bring us closer to this goal."
-- 
+Buildling multimodal representations "AI systems that learn about concepts in several modalities, primarily the textual and visual domains, in order to better understand the world. In our latest research announcements, we present two neural networks that bring us closer to this goal."
+ 
 ## Transformer-based Self-Supervised Learning
 - **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**, (2020) [[paper]](https://arxiv.org/pdf/2004.06165.pdf), by *Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, and Jianfeng Gao*
 - **Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer**, (2021) [[paper]](https://arxiv.org/pdf/2102.10772.pdf), by *Ronghang Hu and Amanpreet Singh*
