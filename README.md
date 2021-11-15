@@ -1,1 +1,1 @@
-# awesome-multimodal-representation
+# awesome-multimodal-representation-learning
