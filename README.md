@@ -4,10 +4,10 @@
 Buildling multimodal representations "AI systems that learn about concepts in several modalities, primarily the textual and visual domains, in order to better understand the world. In our latest research announcements, we present two neural networks that bring us closer to this goal."
  
 ## Transformer-based Self-Supervised Learning
-- **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**, (2020) [[paper]](https://arxiv.org/pdf/2004.06165.pdf), by *Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, and Jianfeng Gao*
-- **Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer**, (2021) [[paper]](https://arxiv.org/pdf/2102.10772.pdf), by *Ronghang Hu and Amanpreet Singh*
 - **ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross-and Intra-modal Knowledge Integration**, (2021) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475251), by *Yuhao Cui, Zhou Yu, Chunqi Wang, Zhongzhou Zhao, Ji Zhang, Meng Wang, and Jun Yu*
-
+- **Transformer is All You Need: Multimodal Multitask Learning with a Unified Transformer**, (2021) [[paper]](https://arxiv.org/pdf/2102.10772.pdf), by *Ronghang Hu and Amanpreet Singh*
+- **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**, (2020) [[paper]](https://arxiv.org/pdf/2004.06165.pdf), by *Xiujun Li, Xi Yin, Chunyuan Li, Pengchuan Zhang, Xiaowei Hu, Lei Zhang, Lijuan Wang, Houdong Hu, Li Dong, Furu Wei, Yejin Choi, and Jianfeng Gao*
+- **Uniter: Universal Image-text Representation Learning**, (2020) [[paper]](https://arxiv.org/pdf/1909.11740.pdf), by *Yen-Chun Chen, Linjie Li, Licheng Yu, Ahmed El Kholy, Faisal Ahmed, Zhe Gan, Yu Cheng, and Jingjing Liu.*
 
 ## Contrastive Learning Across Modalities
 - **Learning Transferable Visual Models From Natural Language Supervision**, (2020) [[paper]](https://arxiv.org/pdf/2103.00020.pdf), by *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever* 
