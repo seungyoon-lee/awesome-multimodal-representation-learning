@@ -1,6 +1,6 @@
 # awesome-multimodal-representation-learning
 
-## Multimodal Representation Learning: Recent Works on Universal Pretraining Methods
+## Multimodal Representation Learning: Recent Works on V+L Pretraining Methods
 Curated list of papers and resources that leverage different modalities --e.g., vision, text, and audio--to learn better conceptual representations.  
  
 ## Transformer-based Pretraining
