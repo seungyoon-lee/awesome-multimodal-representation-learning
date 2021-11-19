@@ -13,6 +13,8 @@ Curated list of papers and resources that leverage different modalities --e.g., 
 ## Contrastive Learning Across Modalities
 - **Learning Transferable Visual Models From Natural Language Supervision**, (2020) [[paper]](https://arxiv.org/pdf/2103.00020.pdf), by *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever* 
 
+## Recent Papers on Video Dataset
+- **Videobert: A joint model for video and language representation learning
 ## Useful Blogs and Videos
 - **OpenAI Multimodal Research** [[website]](https://openai.com/blog/tags/multimodal/)
   - [[Blog--DALL·E: Creating Images from Text]](https://openai.com/blog/dall-e/), by *(primary authors) Aditya RameshMikhail PavlovGabriel GohScott Gray, (supporting authors) Mark Chen, Rewon Child, Vedant Misra, Pamela Mishkin, Gretchen Krueger, Sandhini Agarwal, and Ilya Sutskever*, Jan 2021
