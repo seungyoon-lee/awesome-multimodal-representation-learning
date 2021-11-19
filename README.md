@@ -14,8 +14,8 @@ Curated list of papers and resources that leverage different modalities --e.g., 
 - **Learning Transferable Visual Models From Natural Language Supervision**, (2020) [[paper]](https://arxiv.org/pdf/2103.00020.pdf), by *Alec Radford, Jong Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, and Ilya Sutskever* 
 
 ## Recent Papers on Video Dataset
-- **VideoBERT: A Joint Model for Video and Language Representation Learning** (2019) [[paper]] (https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf), by *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, and Cordelia Schmid*
-- **Video Description: A Survey of Methods, Datasets and Evaluation Metrics** (2019) [[paper]] (https://dl.acm.org/doi/pdf/10.1145/3355390), by *Nayyer Aafaq, Ajmal Mian, Wei Liu, Syed Zulqarnain Gilani, and Mubarak Shah*
+- **VideoBERT: A Joint Model for Video and Language Representation Learning** (2019) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf), by *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, and Cordelia Schmid*
+- **Video Description: A Survey of Methods, Datasets and Evaluation Metrics** (2019) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3355390), by *Nayyer Aafaq, Ajmal Mian, Wei Liu, Syed Zulqarnain Gilani, and Mubarak Shah*
 
 ## Useful Blogs and Videos
 - **OpenAI Multimodal Research** [[website]](https://openai.com/blog/tags/multimodal/)
