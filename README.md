@@ -36,6 +36,7 @@ Curated list of papers and resources that leverage different modalities --e.g., 
   - [[Blog--VIOLIN: Do you really understand videos?]](https://medium.com/swlh/violin-do-you-really-understand-videos-fe07f7affd9e), by *"Rohit Pillai*, May 2020
   - [[Youtube--AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8), by *Lijuan Wang and Xiaowei Hu*, Mar 2021
 
--**Grounded Video Description**
-  -[[Youtube--Grounded Video Description ]]
-   https://openaccess.thecvf.com/content_cvpr_2016/papers/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.pdf
+-**Grounded Video Description** 
+  - [[Youtube--Grounded Video Description]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.pdf)
+  - [[Youtube--ActivityNet Workshop: Dense-Captioning Events in Videos]](https://www.youtube.com/watch?v=jpgv_vmGG58)
+   
