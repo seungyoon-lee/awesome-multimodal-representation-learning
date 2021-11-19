@@ -16,6 +16,7 @@ Curated list of papers and resources that leverage different modalities --e.g., 
 ## Recent Papers on Video Dataset
 - **VideoBERT: A Joint Model for Video and Language Representation Learning** (2019) [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf), by *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy, and Cordelia Schmid*
 - **Video Description: A Survey of Methods, Datasets and Evaluation Metrics** (2019) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3355390), by *Nayyer Aafaq, Ajmal Mian, Wei Liu, Syed Zulqarnain Gilani, and Mubarak Shah*
+- **Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks** (2016) [[paper]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.pdf), by *Haonan Yu, Jiang Wang, Zhiheng Huang, Yi Yang, and Wei Xu*
 
 ## Useful Blogs and Videos
 - **OpenAI Multimodal Research** [[website]](https://openai.com/blog/tags/multimodal/)
@@ -34,3 +35,7 @@ Curated list of papers and resources that leverage different modalities --e.g., 
   - [[Blog--UNITER: Combining Image and Text]](https://towardsdatascience.com/uniter-d979e2d838f0), by *"Rohit Pillai*, May 2020
   - [[Blog--VIOLIN: Do you really understand videos?]](https://medium.com/swlh/violin-do-you-really-understand-videos-fe07f7affd9e), by *"Rohit Pillai*, May 2020
   - [[Youtube--AI Advances in Image Captioning: Describing Images as Well as People Do]](https://www.youtube.com/watch?v=QNesnXfyYq8), by *Lijuan Wang and Xiaowei Hu*, Mar 2021
+
+-**Grounded Video Description**
+  -[[Youtube--Grounded Video Description ]]
+   https://openaccess.thecvf.com/content_cvpr_2016/papers/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.pdf
