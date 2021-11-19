@@ -1,7 +1,7 @@
 # awesome-multimodal-representation-learning
 
 ## Multimodal Representation Learning: Recent Works on V+L Pretraining Methods
-Curated list of papers and resources that leverage different modalities --e.g., vision, text, and audio--to learn better conceptual representations.  
+Curated list of papers and resources that leverage different modalities --e.g., image and text--to learn better conceptual representations.  
  
 ## Transformer-based Pretraining
 - **ROSITA: Enhancing Vision-and-Language Semantic Alignments via Cross-and Intra-modal Knowledge Integration**, (2021) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475251), by *Yuhao Cui, Zhou Yu, Chunqi Wang, Zhongzhou Zhao, Ji Zhang, Meng Wang, and Jun Yu*
