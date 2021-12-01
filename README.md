@@ -40,4 +40,4 @@ Curated list of papers and resources that leverage different modalities --e.g., 
   - [[Youtube--ActivityNet Workshop: Dense-Captioning Events in Videos]](https://www.youtube.com/watch?v=jpgv_vmGG58)
  
 - **Other Useful Resources: On Meaning and Conceptual Understanding of Data**
-  - [[Youtube--Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data]](https://www.youtube.com/watch?v=UXv2lRDELto)
+  - [[Youtube--Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data]](https://www.youtube.com/watch?v=UXv2lRDELto), presented by Emily M. Bender and Alexander Koller, ACL 2020.
