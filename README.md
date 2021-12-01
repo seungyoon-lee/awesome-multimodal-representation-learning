@@ -21,8 +21,8 @@ Curated list of papers and resources that leverage different modalities --e.g., 
 ## Useful Blogs and Videos
 - **OpenAI Multimodal Research** [[website]](https://openai.com/blog/tags/multimodal/)
   - [[Blog--Multimodal Neurons in Artificial Neural Networks]](https://openai.com/blog/multimodal-neurons/), by *Gabriel Goh, Chelsea Voss, Daniela Amodei, Shan Carter, Michael Petrov, Justin Jay Wang, Nick Cammarata, and Chris Olah*, March 2021
-  - [[Blog--DALL·E: Creating Images from Text]](https://openai.com/blog/dall-e/), by *(primary authors) Aditya RameshMikhail PavlovGabriel GohScott Gray, (supporting authors) Mark Chen, Rewon Child, Vedant Misra, Pamela Mishkin, Gretchen Krueger, Sandhini Agarwal, and Ilya Sutskever*, Jan 2021
   - [[Blog--CLIP: Connecting Text and Images]](https://openai.com/blog/clip/), by *Alec Radford, Ilya Sutskever, Jong Wook Kim, Gretchen Krueger, and Sandhini Agarwal*, Jan 2021
+  - [[Blog--DALL·E: Creating Images from Text]](https://openai.com/blog/dall-e/), by *(primary authors) Aditya RameshMikhail PavlovGabriel GohScott Gray, (supporting authors) Mark Chen, Rewon Child, Vedant Misra, Pamela Mishkin, Gretchen Krueger, Sandhini Agarwal, and Ilya Sutskever*, Jan 2021
   - [[Blog--Simple Implementation of OpenAI CLIP model: A Tutorial]](https://towardsdatascience.com/simple-implementation-of-openai-clip-model-a-tutorial-ace6ff01d9f2), by *Moein Shariatnia*, April 2021
 - **Microsoft Multimodal AI** [[website]](https://multimodalai.azurewebsites.net/)
   - [[CVPR 2020 Tutorial--Recent Advances in Vision-and-Language Research]](https://rohit497.github.io/Recent-Advances-in-Vision-and-Language-Research/), June 2020
