@@ -41,3 +41,4 @@ Curated list of papers and resources that leverage different modalities --e.g., 
  
 - **Other Useful Resources: On Meaning and Conceptual Understanding of Data**
   - [[Youtube--Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data]](https://www.youtube.com/watch?v=UXv2lRDELto), presented by Emily M. Bender and Alexander Koller, ACL 2020.
+  - [[Blog--A Deep Dive into OpenAI CLIP with Multimodal Neurons- CLIP Multimodal Neurons]] https://towardsdatascience.com/a-deep-dive-into-openai-clip-with-multimodal-neurons-a7dbbd963ef6
