@@ -38,7 +38,3 @@ Curated list of papers and resources that leverage different modalities --e.g., 
 - **Grounded Video Description** 
   - [[Youtube--Grounded Video Description]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.pdf)
   - [[Youtube--ActivityNet Workshop: Dense-Captioning Events in Videos]](https://www.youtube.com/watch?v=jpgv_vmGG58)
- 
-- **Other Useful Resources: On Meaning and Conceptual Understanding of Data**
-  - [[Youtube--Climbing Towards NLU: On Meaning, Form, and Understanding in the Age of Data]](https://www.youtube.com/watch?v=UXv2lRDELto), presented by Emily M. Bender and Alexander Koller, ACL 2020.
-  - [[Blog--A Deep Dive into OpenAI CLIP with Multimodal Neurons]](https://towardsdatascience.com/a-deep-dive-into-openai-clip-with-multimodal-neurons-a7dbbd963ef6), Mostafa Ibrahim, Mar 2021.
